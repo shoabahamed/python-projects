@@ -1,0 +1,1 @@
+A Short and simple project on face recognation 
